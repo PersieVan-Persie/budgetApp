@@ -1,0 +1,11 @@
+.transaction-item{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 350px;
+    height: 70px;
+    margin: 50px 25px 0px;
+    border-radius: 15px; 
+    
+     
+}
